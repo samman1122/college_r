@@ -1,2 +1,3 @@
 # college_r
-This is my first repositiry.
+This is my first repository.
+Author-Samman
